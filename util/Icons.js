@@ -1,0 +1,17 @@
+export default {
+    back: require("../assets/icons/left.png"),
+    burger: require("../assets/icons/burger.png"),
+    forward: require("../assets/icons/right.png"),
+    location: require("../assets/icons/location.png"),
+    search: require("../assets/icons/search.png"),
+    close: require("../assets/icons/close.png"),
+    instagram: require("../assets/icons/instagram.png"),
+    facebook: require("../assets/icons/facebook.png"),
+    phone: require("../assets/icons/phone.png"),
+    web: require("../assets/icons/web.png"),
+    hedarLogo: require("../assets/logo/Malama_white_w_logo.png"),
+    germany: require("../assets/icons/languages/DE.png"),
+    france: require("../assets/icons/languages/FR.png"),
+    italy: require("../assets/icons/languages/IT.png"),
+    unitedKingdom: require("../assets/icons/languages/EN.png"),
+}

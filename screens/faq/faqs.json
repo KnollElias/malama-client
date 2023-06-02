@@ -1,0 +1,42 @@
+{
+  "Deutsch": [
+    {
+      "question": "Wie funktioniert Mālama?",
+      "answer": "Mālama ist eine App, die dir hilft, deine Umwelt zu schützen. Du kannst dir mit Mālama eine Liste von Dingen erstellen, die du vermeiden möchtest. Wenn du dann in einem Geschäft bist, kannst du mit Mālama scannen, ob das Produkt, das du kaufen möchtest, auf deiner Liste steht. Wenn ja, kannst du es dir sparen. Wenn nicht, kannst du es kaufen. Mālama hilft dir, deine Umwelt zu schützen, indem du dir bewusst machst, was du kaufst und was du vermeiden kannst."
+    },
+    {
+      "question": "Wie funktioniert der Scanner?",
+      "answer": "Der Scanner funktioniert mit der Kamera deines Smartphones. Du musst das Produkt nur in den Scanner halten und Mālama wird dir sagen, ob es auf deiner Liste steht oder nicht."
+    }
+  ],
+  "Français": [
+    {
+      "question": "Comment fonctionne Mālama?",
+      "answer": "Mālama est une application qui vous aide à protéger l'environnement. Avec Mālama, vous pouvez créer une liste de choses que vous souhaitez éviter. Lorsque vous êtes dans un magasin, vous pouvez utiliser Mālama pour scanner si le produit que vous souhaitez acheter est sur votre liste. Si c'est le cas, vous pouvez l'éviter. Sinon, vous pouvez l'acheter. Mālama vous aide à protéger l'environnement en vous rendant conscient de ce que vous achetez et de ce que vous pouvez éviter."
+    },
+    {
+      "question": "Comment fonctionne le scanner?",
+      "answer": "Le scanner fonctionne avec l'appareil photo de votre smartphone. Il vous suffit de tenir le produit devant le scanner et Mālama vous dira s'il est sur votre liste ou non."
+    }
+  ],
+  "Italiano": [
+    {
+      "question": "Come funziona Mālama?",
+      "answer": "Mālama è un'app che ti aiuta a proteggere l'ambiente. Con Mālama, puoi creare un elenco di cose che vuoi evitare. Quando sei in un negozio, puoi utilizzare Mālama per scansionare se il prodotto che vuoi acquistare è nella tua lista. Se lo è, puoi evitarlo. In caso contrario, puoi acquistarlo. Mālama ti aiuta a proteggere l'ambiente rendendoti consapevole di ciò che stai acquistando e di ciò che puoi evitare."
+    },
+    {
+      "question": "Come funziona lo scanner?",
+      "answer": "Lo scanner funziona con la fotocamera del tuo smartphone. Devi solo tenere il prodotto davanti allo scanner e Mālama ti dirà se è nella tua lista o no."
+    }
+  ],
+  "English": [
+    {
+      "question": "How does Mālama work?",
+      "answer": "Mālama is an app that helps you protect the environment. With Mālama, you can create a list of things you want to avoid. When you're in a store, you can use Mālama to scan whether the product you want to buy is on your list. If it is, you can avoid it. If not, you can buy it. Mālama helps you protect the environment by making you aware of what you're buying and what you can avoid."
+    },
+    {
+      "question": "How does the scanner work?",
+      "answer": "The scanner works with your smartphone's camera. You just need to hold the product in front of the scanner and Mālama will tell you whether it's on your list or not."
+    }
+  ]
+}
